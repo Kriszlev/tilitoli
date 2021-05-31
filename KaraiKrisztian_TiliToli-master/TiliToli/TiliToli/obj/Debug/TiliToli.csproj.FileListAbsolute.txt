@@ -1,0 +1,43 @@
+C:\Users\bence\source\repos\PappBence_TiliToli\TiliToli\TiliToli\bin\Debug\TiliToli.exe.config
+C:\Users\bence\source\repos\PappBence_TiliToli\TiliToli\TiliToli\bin\Debug\TiliToli.exe
+C:\Users\bence\source\repos\PappBence_TiliToli\TiliToli\TiliToli\bin\Debug\TiliToli.pdb
+C:\Users\bence\source\repos\PappBence_TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli.csprojAssemblyReference.cache
+C:\Users\bence\source\repos\PappBence_TiliToli\TiliToli\TiliToli\obj\Debug\MainWindow.g.cs
+C:\Users\bence\source\repos\PappBence_TiliToli\TiliToli\TiliToli\obj\Debug\App.g.cs
+C:\Users\bence\source\repos\PappBence_TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli_MarkupCompile.cache
+C:\Users\bence\source\repos\PappBence_TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli_MarkupCompile.lref
+C:\Users\bence\source\repos\PappBence_TiliToli\TiliToli\TiliToli\obj\Debug\MainWindow.baml
+C:\Users\bence\source\repos\PappBence_TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli.g.resources
+C:\Users\bence\source\repos\PappBence_TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli.Properties.Resources.resources
+C:\Users\bence\source\repos\PappBence_TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli.csproj.GenerateResource.cache
+C:\Users\bence\source\repos\PappBence_TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli.csproj.CoreCompileInputs.cache
+C:\Users\bence\source\repos\PappBence_TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli.exe
+C:\Users\bence\source\repos\PappBence_TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli.pdb
+F:\suli\SZAROS MECHWART\Komplex programozás\PappBence_TiliToli-master\TiliToli\TiliToli\bin\Debug\TiliToli.exe.config
+F:\suli\SZAROS MECHWART\Komplex programozás\PappBence_TiliToli-master\TiliToli\TiliToli\bin\Debug\TiliToli.exe
+F:\suli\SZAROS MECHWART\Komplex programozás\PappBence_TiliToli-master\TiliToli\TiliToli\bin\Debug\TiliToli.pdb
+F:\suli\SZAROS MECHWART\Komplex programozás\PappBence_TiliToli-master\TiliToli\TiliToli\obj\Debug\TiliToli.csprojAssemblyReference.cache
+F:\suli\SZAROS MECHWART\Komplex programozás\PappBence_TiliToli-master\TiliToli\TiliToli\obj\Debug\MainWindow.g.cs
+F:\suli\SZAROS MECHWART\Komplex programozás\PappBence_TiliToli-master\TiliToli\TiliToli\obj\Debug\App.g.cs
+F:\suli\SZAROS MECHWART\Komplex programozás\PappBence_TiliToli-master\TiliToli\TiliToli\obj\Debug\TiliToli_MarkupCompile.cache
+F:\suli\SZAROS MECHWART\Komplex programozás\PappBence_TiliToli-master\TiliToli\TiliToli\obj\Debug\TiliToli_MarkupCompile.lref
+F:\suli\SZAROS MECHWART\Komplex programozás\PappBence_TiliToli-master\TiliToli\TiliToli\obj\Debug\MainWindow.baml
+F:\suli\SZAROS MECHWART\Komplex programozás\PappBence_TiliToli-master\TiliToli\TiliToli\obj\Debug\TiliToli.g.resources
+F:\suli\SZAROS MECHWART\Komplex programozás\PappBence_TiliToli-master\TiliToli\TiliToli\obj\Debug\TiliToli.Properties.Resources.resources
+F:\suli\SZAROS MECHWART\Komplex programozás\PappBence_TiliToli-master\TiliToli\TiliToli\obj\Debug\TiliToli.csproj.GenerateResource.cache
+F:\suli\SZAROS MECHWART\Komplex programozás\PappBence_TiliToli-master\TiliToli\TiliToli\obj\Debug\TiliToli.exe
+F:\suli\SZAROS MECHWART\Komplex programozás\PappBence_TiliToli-master\TiliToli\TiliToli\obj\Debug\TiliToli.pdb
+F:\suli\SZAROS MECHWART\Komplex programozás\KaraiKrisztian_TiliToli-master\TiliToli\TiliToli\bin\Debug\TiliToli.exe.config
+F:\suli\SZAROS MECHWART\Komplex programozás\KaraiKrisztian_TiliToli-master\TiliToli\TiliToli\bin\Debug\TiliToli.exe
+F:\suli\SZAROS MECHWART\Komplex programozás\KaraiKrisztian_TiliToli-master\TiliToli\TiliToli\bin\Debug\TiliToli.pdb
+F:\suli\SZAROS MECHWART\Komplex programozás\KaraiKrisztian_TiliToli-master\TiliToli\TiliToli\obj\Debug\TiliToli.csprojAssemblyReference.cache
+F:\suli\SZAROS MECHWART\Komplex programozás\KaraiKrisztian_TiliToli-master\TiliToli\TiliToli\obj\Debug\MainWindow.g.cs
+F:\suli\SZAROS MECHWART\Komplex programozás\KaraiKrisztian_TiliToli-master\TiliToli\TiliToli\obj\Debug\App.g.cs
+F:\suli\SZAROS MECHWART\Komplex programozás\KaraiKrisztian_TiliToli-master\TiliToli\TiliToli\obj\Debug\TiliToli_MarkupCompile.cache
+F:\suli\SZAROS MECHWART\Komplex programozás\KaraiKrisztian_TiliToli-master\TiliToli\TiliToli\obj\Debug\TiliToli_MarkupCompile.lref
+F:\suli\SZAROS MECHWART\Komplex programozás\KaraiKrisztian_TiliToli-master\TiliToli\TiliToli\obj\Debug\MainWindow.baml
+F:\suli\SZAROS MECHWART\Komplex programozás\KaraiKrisztian_TiliToli-master\TiliToli\TiliToli\obj\Debug\TiliToli.g.resources
+F:\suli\SZAROS MECHWART\Komplex programozás\KaraiKrisztian_TiliToli-master\TiliToli\TiliToli\obj\Debug\TiliToli.Properties.Resources.resources
+F:\suli\SZAROS MECHWART\Komplex programozás\KaraiKrisztian_TiliToli-master\TiliToli\TiliToli\obj\Debug\TiliToli.csproj.GenerateResource.cache
+F:\suli\SZAROS MECHWART\Komplex programozás\KaraiKrisztian_TiliToli-master\TiliToli\TiliToli\obj\Debug\TiliToli.exe
+F:\suli\SZAROS MECHWART\Komplex programozás\KaraiKrisztian_TiliToli-master\TiliToli\TiliToli\obj\Debug\TiliToli.pdb
